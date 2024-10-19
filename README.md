@@ -7,4 +7,4 @@ This Python library, developed by **Mo Ehab**, is designed to predict piston beh
 ## ⚙️ Installation
 Clone the GitHub repository:
 ```bash
-git clone https://github.com/your-username/correct-project-name.git
+git@github.com:muhammedehab35/EHAI_HACK_PROJ1.git
